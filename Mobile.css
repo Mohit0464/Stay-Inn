@@ -1,0 +1,4 @@
+@media (max-width:1500px) {
+    .Flex-Container {display:flex;
+    flex-direction: column;
+    text-align: center;}}
