@@ -1,7 +1,7 @@
 .Flex-Container{
     display: flex;
     flex-direction: row;
-    background-color: red;
+    background-image: linear-gradient(red, yellow, green)
 }   
 .Flex-Container > div {
      margin: auto;

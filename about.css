@@ -1,7 +1,8 @@
 .Flex-Container{
     display: flex;
     flex-direction: row;
-    background-color: red;
+    background-image: radial-gradient(circle, red, yellow, greenyellow);
+
 }   
 .Flex-Container > div {
      margin: auto;
@@ -23,6 +24,34 @@
 }
 .horizontal-line{
     height: 10px;
-    background-color: green;
+    background-color:orange;
     border-radius: 10px;
     width: 80%;}
+
+    .abot{
+        display:flex;
+        flex-direction:row;
+        border: 2px solid goldenrod;
+    }
+    .abot > div{
+        margin: auto;
+    }
+    .footer{
+        background-color: grey;
+        width: 100%;
+        height: 800px;
+    }
+    
+    .fotter{
+        display: flex;
+        flex-direction: row;
+    }
+    .fotter > div{
+        margin: auto;
+    }
+    .horizontal-lin{
+        background-color:red;
+        height: 4px;
+        width: 70%;
+        border-radius: 10px;
+    }
