@@ -73,3 +73,9 @@
 .fotter > div{
     margin: auto;
 }
+.horizontal-lin{
+    background-color:red;
+    height: 4px;
+    width: 70%;
+    border-radius: 10px;
+}
