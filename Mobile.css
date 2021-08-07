@@ -17,5 +17,16 @@
         display:flex;
         flex-direction: column;
     }
+    .abot{
+        display:flex;
+        flex-direction:column ;
+        background-color: azure;
+    }
+    .head{
+        background-color:burlywood;
+        height: 10px;
+        border-radius: 10px;
+        width: 80%;
+    }
 }
     
