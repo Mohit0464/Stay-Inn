@@ -44,5 +44,33 @@
     background-color:red;
     height: 4px;
     width: 70%;
-    border-radius: 10px;
+    border-radius: 20%;
 }
+.Banquet,.cateering,.sweets,.food,.icecream,.snacks{
+display: flex;
+flex-direction: column;
+}
+.panel,.panel1,.panel2,.panel3,.panel4,.panel5,.panel6,.panel7{
+    display: none;
+}
+.flip,.flip1,.flip2,.flip3,.flip4,.flip5,.flip6:link, .flip,.flip1,.flip2,.flip3,.flip4,.flip5,.flip6:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 7px 12.5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .flip7:link, .flip7:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 7px 12.5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .flip,.flip1,.flip2,.flip3,.flip4,.flip5,.flip6,.flip7:hover, .flip,.flip1,.flip2,.flip3,.flip4,.flip5,.flip6,.flip7:active {
+    background-color: red;
+  }
