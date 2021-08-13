@@ -28,5 +28,15 @@
         border-radius: 10px;
         width: 80%;
     }
+    .services_img{
+        height: 1700px;
+        width:90%;
+    }
+    .services_details{
+        position: relative;
+        top: 300px;
+        color: pink;
+    }
+    
 }
     
