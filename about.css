@@ -55,3 +55,16 @@
         width: 70%;
         border-radius: 10px;
     }
+    .logIn:link, .logIn:visited{
+        background-color: red;
+        font-size: 40px;
+        padding: 8px 45px;
+        color: black;
+        border: 4px solid black;
+        text-decoration: none;
+    }
+    .logIn:hover,.login:active{
+        background-color: white;
+        color: red;
+        
+    }

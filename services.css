@@ -74,3 +74,7 @@ flex-direction: column;
   .flip,.flip1,.flip2,.flip3,.flip4,.flip5,.flip6,.flip7:hover, .flip,.flip1,.flip2,.flip3,.flip4,.flip5,.flip6,.flip7:active {
     background-color: red;
   }
+  .services_img{
+    background-image: url(image/banquet.jpeg);background-size: cover; width: 80%; height: 755px; border: 5px solid black; background-repeat: repeat-x;
+
+}

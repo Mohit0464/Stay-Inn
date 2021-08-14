@@ -1,0 +1,6 @@
+@media (max-width:1500px) {
+.services_img{
+    height: 1700px;
+    border: 5px solid yellow;
+}
+}
